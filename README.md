@@ -1,28 +1,28 @@
 # Frontend Mentor - Компонент таймера обратного отсчета
 
-Решение задачи [Таймер обратного отсчета на Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-).
+Решение задачи [таймер обратного отсчета на Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-).
 
 ## Оглавление
 
-- [Описание](#Описание)
-  - [Задачи](#Задачи)
-  - [Ссылки](#Ссылки)
-  - [Стек](#Стек)
+- [Описание](#описание)
+  - [Задачи](#задачи)
+  - [Ссылки](#ссылки)
+  - [Стек](#стек)
 
 ## Описание
 
 ### Задачи
 
-Пользователи должны иметь возможность:
+Необходимо реализовать:
 
-- Видеть изменения состояний интерактивных элементов страницы
-- Видеть таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду (начните отсчет с 14 дней).
-- **Bonus**: Когда число меняется, переворачивать карточку через середину
+- Изменение состояний интерактивных элементов страницы, при наведении на них курсора мыши
+- Таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду (начните отсчет с 14 дней)
+- **Bonus**: Переворачивать карточку через середину, когда число меняется
 
 ### Ссылки
 
-- Репозиторий: [Add solution URL here](https://your-solution-url.com)
-- Сайт: [Add live site URL here](https://your-live-site-url.com)
+- [Репозиторий](https://github.com/leonidparshentsev/countdown_timer)
+- [Сайт](https://leonidparshentsev.github.io/countdown_timer/)
 
 ### Стек
 
@@ -56,8 +56,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Repository](https://github.com/leonidparshentsev/countdown_timer)
+- [Live Site](https://leonidparshentsev.github.io/countdown_timer/)
 
 ### Built with
 
