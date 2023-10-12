@@ -2,27 +2,11 @@
 
 Решение задачи [таймер обратного отсчета на Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-).
 
-## Оглавление
+### В проекте реализовано:
 
-- [Описание](#описание)
-  - [Задачи](#задачи)
-  - [Ссылки](#ссылки)
-  - [Стек](#стек)
-
-## Описание
-
-### Задачи
-
-Необходимо реализовать:
-
-- Изменение состояний интерактивных элементов страницы, при наведении на них курсора мыши
-- Таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду (начните отсчет с 14 дней)
-- **Bonus**: Переворачивать карточку через середину, когда число меняется
-
-### Ссылки
-
-- [Репозиторий](https://github.com/leonidparshentsev/countdown_timer)
-- [Сайт](https://leonidparshentsev.github.io/countdown_timer/)
+- Таймер обратного отсчета в реальном времени, который отсчитывает каждую секунду.
+- Анимация переворота карточки через середину, при смене числа.
+- Изменение состояний интерактивных элементов страницы, при наведении на них курсора мыши.
 
 ### Стек
 
@@ -31,37 +15,30 @@
 - Flexbox
 - Javascript
 
+### Ссылки
+
+- Вы можете ознакомиться с результатом, перейдя по [`ссылке`](https://leonidparshentsev.github.io/countdown_timer/)
+
 ---
 
 # Frontend Mentor - Launch countdown timer solution
 
 This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-).
 
-## Table of contents
+### Implemented in the project:
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-  - [Built with](#built-with)
+- A real-time countdown timer that counts down every second.
+- Animation of the card flip through the middle, when the number changes.
+- Changing the states of interactive page elements when the mouse cursor hovers over them.
 
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
-- **Bonus**: When a number changes, make the card flip from the middle
-
-### Links
-
-- [Repository](https://github.com/leonidparshentsev/countdown_timer)
-- [Live Site](https://leonidparshentsev.github.io/countdown_timer/)
-
-### Built with
+### Stack
 
 - HTML5 markup
 - CSS
 - Flexbox
 - Javascript
+
+  
+### Links
+
+You can check out the result on the [`link`](https://leonidparshentsev.github.io/countdown_timer/)
